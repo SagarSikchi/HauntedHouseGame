@@ -16,3 +16,9 @@ Consider, the cost function is F'(N) is given as-
 
 In this project, Euclidean Distance is used as an heuristic function. The two lists namely **OPEN** and **CLOSED** are implemented internally in this project. The OPEN list contains the states which are generated but not processed. While CLOSED list contains the states which are generated and proocessed(created further successors of this current state).
 
+To know more about A* algorithm, check out thee links given below:
+
+   - [**Introduction to the A\* Algorithm**](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+   - [**A\* Algorithm for Path Finding in Games**](https://www.coderewind.com/2012/08/a-algorithm-for-path-finding-in-games/)
+   - [**A\* Search Algorithm**](https://www.geeksforgeeks.org/a-search-algorithm/)
+

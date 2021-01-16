@@ -11,7 +11,7 @@ Consider, the cost function is F'(N) given as-
     where, 
     F'(N) = Cost Function (Approximate value). It is the cost value to reach from initial state to final state.
     G(N)  = It is the actual value to reach from initial state to current state.
-    H'(N) = It is the heuristic value to reach from current state to final state.
+    H'(N) = It is the approximate heuristic value to reach from current state to final state.
  
 
 In this project, Euclidean Distance is used as an heuristic function. The two lists namely **OPEN** and **CLOSED** are implemented internally in this project. The OPEN list contains the states which are generated but not processed. While CLOSED list contains the states which are generated and proocessed(created further successors of this current state).

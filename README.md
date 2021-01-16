@@ -4,7 +4,7 @@ The document contains important scripts used in the project and the exported ass
 
 A* algorithm is the Informed Search Algorithm used to find the shortest path with cost function. Cost function is implemented using the heuristic value and actual cost value.
 
-Consider, the cost function is F'(N) is given as-
+Consider, the cost function is F'(N) given as-
 
     F'(N) = G(N) + H'(N)
          
